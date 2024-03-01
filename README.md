@@ -8,6 +8,7 @@ This is a sample TicTacToe project made with React and Tailwind CSS.
 npm install
 
 npm run dev # Start a live server
+```
 
 ## To Do
 
