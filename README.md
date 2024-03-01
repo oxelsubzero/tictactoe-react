@@ -2,6 +2,10 @@
 
 This is a sample TicTacToe project made with React and Tailwind CSS.
 
+## Screenshot
+
+![screenshot](images/img.png)
+
 ## Run
 
 ```bash
@@ -15,3 +19,4 @@ npm run dev # Start a live server
     - Add a feature to play against computer
 
     - Upgrade to play on network
+
